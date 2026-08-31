@@ -1,82 +1,83 @@
-# Materia: Computabilidad y Complejidad
-
 <div align="center">
-  <h2>Universidad Nacional de Hurlingham</h2>
-</div>
 
-## Datos de la materia
+# 💻 Computabilidad y Complejidad
 
-- **Nombre:** Computabilidad y Complejidad
-- **Código:** TI_113
-- **Cuatrimestre:** 2C2026
-
-![Banner de la materia](./banner.jpg)
-
-## Índice de tareas
-
-| Tarea | Descripción | Enlace |
-|------|-------------|--------|
-| T1 | Trabajo práctico 1 | [T1](./T1/) |
-| T2 | Trabajo práctico 2 | [T2](./T2/) |
+**Universidad Nacional de Hurlingham**  
+*2° Cuatrimestre 2026*
 
 ---
 
-## Contenido
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./banner.jpg" alt="Banner Computabilidad y Complejidad" width="100%">
+</div>
+
+---
+
+## 📂 Índice de tareas
+
+| Tarea | Descripción | Enlace |
+| :---: | :--- | :---: |
+| **T1** | Trabajo práctico 1: Científicos | [Ver carpeta](./T1/) |
+| **T2** | Trabajo práctico 2: Máquinas de Turing | [Ver carpeta](./T2/) |
+
+---
 
 ## Tarea 1: Científicos
 
-> [Ir a la carpeta T1](./T1/)
+ **Recursos adicionales:** 
+ - [Carpeta T1](./T1/) 
+ - [Hoja de Cálculo en Google Drive](https://docs.google.com/spreadsheets/d/19Bz7HpqyY465uTSSMZl_xUvJH9eviDKqdAx2mwPVTQA/edit?usp=sharing)
 
-### Enlace al drive
-[Científicos](https://docs.google.com/spreadsheets/d/19Bz7HpqyY465uTSSMZl_xUvJH9eviDKqdAx2mwPVTQA/edit?usp=sharing)
+<br/>
 
-### Kurt Friedrich Gödel
+<table>
+  <tr>
+    <td width="240" align="center" valign="top">
+      <img src="./T1/retrato.webp" alt="Kurt Friedrich Gödel" width="200" style="border-radius: 6px;">
+    </td>
+    <td valign="top">
+      <h3>Kurt Friedrich Gödel</h3>
+      <p><b>Profesión:</b> Lógico, matemático y filósofo</p>
+      <ul>
+        <li><b>Fechas:</b> 28/04/1906 – 14/01/1978</li>
+        <li><b>Nacionalidad:</b> Checoslovaca, Austriaca, Estadounidense</li>
+        <li><b>Educación:</b> Universidad de Viena (Tesis: <i>Über die Vollständigkeit des Logikkalküls</i>)</li>
+        <li><b>Aporte principal:</b> Teoremas de incompletitud (1931)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img src="./T1/retrato.webp" alt="Kurt Friedrich Gödel" width="220" />
-
-- Nacimiento: 28/04/1906
-- Fallecimiento: 14/01/1978
-- Nacionalidad: Checoslovaca, Austriaca y Estadounidense
-- Aporte principal: Teorema(s) de incompletitud de Gödel
-- Fecha del aporte principal: Ambos teoremas fueron demostrados en 1931
-
-#### Otros aportes
-- Teoremas de completitud e incompletitud de Gödel
+### Aportes y conceptos asociados
+- Teoremas de completitud e incompletitud
 - Numeración de Gödel
 - Teoría de conjuntos de Von Neumann-Bernays-Gödel
-- Métrica de Gödel
-- Universo constructible
+- Métrica de Gödel y Universo constructible
 
-#### Educación
-- Universidad de Viena
-- *Über die Vollständigkeit des Logikkalküls* (tesis doctoral donde demostró su teorema)
+### Reconocimientos
+- **Premio Albert Einstein (1951):** Por grandes contribuciones en ciencias naturales.
+- **Medalla Nacional de Ciencia (1974):** Galardón en ciencias físicas.
 
-#### Profesión
-- Lógico, matemático y filósofo
+### Aplicación en Ciencias de la Computación
+Su trabajo establece un límite fundamental sobre los sistemas formales:
+- **Problema de la detención:** Alan Turing se basó en los teoremas de Gödel para demostrar las limitaciones de los algoritmos.
+- **Inteligencia Artificial:** Define el alcance y los límites deductivos de los sistemas basados en reglas y axiomas (p. ej., Prolog).
 
-#### Reconocimientos
-- Premio Albert Einstein (1951) por grandes contribuciones en ciencias naturales
-- Medalla Nacional de Ciencia (1974)
+-  **Curiosidad:** Padecía una paranoia obsesiva a ser envenenado y solo consumía alimentos preparados por su esposa Adele. Durante una hospitalización prolongada de ella en 1977, Gödel se rehusó a comer, lo que provocó su fallecimiento por desnutrición.
 
-#### Conceptos asociados a su nombre
-- Teoremas de incompletitud de Gödel
-- Numeración de Gödel
-- Teoría de conjuntos de Von Neumann-Bernays-Gödel
-- Métrica de Gödel
+---
 
-#### Área
-- Lógica, matemática y filosofía
+## Tarea 2: Máquinas de Turing
 
-#### Aplicación
-Su teorema sirve como un límite fundamental en muchas disciplinas. A. Turing utilizó sus teoremas para demostrar el problema de la detención (saber si un algoritmo tiene fin o no). También se usa en IA, donde se limita lo que los sistemas basados en axiomas y reglas lógicas pueden deducir (como en Prolog).
+ **Recursos adicionales:** 
+ - [Carpeta T2](./T2/) 
 
-#### Curiosidad
-Tenía temores obsesivos a ser envenenado y no comía a menos que su esposa, Adele, preparara su comida. A finales de 1977, Adele fue hospitalizada durante seis meses y no pudo seguir preparándole la comida. En su ausencia, Gödel rechazó comer hasta el punto de dejarse morir de hambre.
+---
 
-## Tarea 2: Maquinas de Turing
+## 🛠️ Recursos
 
-> [Ir a la carpeta T2](./T2/)
-
-## Notas
-
-- [JFLAP](https://www.jflap.org/)
+- [JFLAP - Formal Languages and Automata Package](https://www.jflap.org/)
