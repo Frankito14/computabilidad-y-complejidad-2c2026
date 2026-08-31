@@ -23,6 +23,7 @@
 | :---: | :--- | :---: |
 | **T1** | Trabajo práctico 1: Científicos | [Ver carpeta](./T1/) |
 | **T2** | Trabajo práctico 2: Máquinas de Turing | [Ver carpeta](./T2/) |
+| **T3** | Trabajo práctico 2: Máquinas de Turing con distitos lenguajes| [Ver carpeta](./T3/) |
 
 ---
 
@@ -71,10 +72,38 @@ Su trabajo establece un límite fundamental sobre los sistemas formales:
 
 ---
 
-## Tarea 2: Máquinas de Turing
+# Tarea 2: Maquina de Turing
 
  **Recursos adicionales:** 
  - [Carpeta T2](./T2/) 
+
+## Maquina
+<img src="./T2/MT.png" alt="Maquina de Turing que duplica cantidad de unos"  />
+
+### Ejemplos
+<img src="./T2/inputs.png" alt="Distintos inputs"  />
+
+#### Input "1"
+<img src="./T2/11.png" alt="Input 11" />
+
+#### Input "11"
+<img src="./T2/21.png" alt="Input 11" />
+
+#### Input "111"
+<img src="./T2/31.png" alt="Input 111"/>
+
+#### Input "1111"
+<img src="./T2/41.png" alt="Input 1111" />
+
+#### Input "11111"
+<img src="./T2/51.png" alt="Input 11111" />
+
+---
+
+# Tarea 3: Maquinas de Turing con distintos lenguajes
+
+ **Recursos adicionales:** 
+ - [Carpeta T3](./T3/) 
 
 ---
 
