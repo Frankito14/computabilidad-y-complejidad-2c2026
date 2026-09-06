@@ -1,0 +1,24 @@
+program{
+    Mover_SegúnColor_(Norte, Verde)
+}
+
+procedure Mover_SegúnColor_(unaDireccion, unColor){
+    /*
+        PROP: Mover el cabezal en la dirección dada tantas celdas como bolitas de color dado hay en la celda actual
+        PRECONDICIONES:
+            - Hay tantas celdas como cantidad de bolitas de color *unColor* lindantes en la direccion dada
+        PARAMETROS:
+            - unaDireccion - DIRECCION - Direccion a mover
+            - unColor - COLOR - Color segun el que nos vamos a mover
+    */
+    Mover_VecesAl_(nroBolitas(unColor), unaDireccion)
+    
+}
+
+//BILBIOTECA
+procedure Mover_VecesAl_(unaCantidad, unaDireccion){
+    //...
+    repeat(unaCantidad){
+        Mover(unaDireccion)
+    }
+}
