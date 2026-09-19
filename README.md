@@ -25,6 +25,8 @@
 | **T2** | Trabajo práctico 2: Máquinas de Turing | [Ver carpeta](./T2/) |
 | **T3** | Trabajo práctico 3: Máquinas de Turing con distitos lenguajes| [Ver carpeta](./T3/) |
 | **T4** | Trabajo práctico 4: Máquinas de Turing Calculables| [Ver carpeta](./T4/) |
+| **T5** | Trabajo práctico 4: Máquinas de Turing Universal| [Ver carpeta](./T5/) |
+
 
 ---
 
