@@ -79,4 +79,8 @@ C4: 10*111$011#0000100#0010011#0100011#0111000#1000110#10100001
 
 C5: 100*11$011#0000100#0010011#0100011#0111000#1000110#10100001
 
+* Notacion correcta para el cambio de transicion: δ (01, 00) = (10, 01, S)
+* Poner siempre los = en el mismo orden (Ej: A = 00; B = 01; ..; S = 00; L = 10; R = 01 )
+* *BLANCO* *BLANCO* *BLANCO* *BLANCO* *BLANCO* *BLANCO* *BLANCO* *BLANCO* 
+
 

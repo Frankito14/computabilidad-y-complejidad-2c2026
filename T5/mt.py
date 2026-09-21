@@ -151,7 +151,7 @@ def mostrar_step(numero_step, mt, estado, valor, transicion):
         else:
             direccion = "S"
         print(
-            f"- Transicion: δ ({estado}, {valor}) -> "
+            f"- Transicion: δ ({estado}, {valor}) = "
             f"({transicion['estado_nuevo']}, {transicion['escribir']}, {direccion})"
         )
     print()
