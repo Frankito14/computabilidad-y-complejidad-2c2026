@@ -25,7 +25,11 @@
 | **T2** | Trabajo práctico 2: Máquinas de Turing | [Ver carpeta](./T2/) |
 | **T3** | Trabajo práctico 3: Máquinas de Turing con distitos lenguajes| [Ver carpeta](./T3/) |
 | **T4** | Trabajo práctico 4: Máquinas de Turing Calculables| [Ver carpeta](./T4/) |
-| **T5** | Trabajo práctico 4: Máquinas de Turing Universal| [Ver carpeta](./T5/) |
+| **T5** | Trabajo práctico 5: Máquinas de Turing Universal| [Ver carpeta](./T5/) |
+| **T6** | Trabajo práctico 6: Problema del Halting| [Ver carpeta](./T6/) |
+| **T7** | Trabajo práctico 7: Máquinas Secuenciales| [Ver carpeta](./T7/) |
+
+
 
 
 ---
