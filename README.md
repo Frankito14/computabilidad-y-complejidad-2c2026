@@ -28,9 +28,7 @@
 | **T5** | Trabajo práctico 5: Máquinas de Turing Universal| [Ver carpeta](./T5/) |
 | **T6** | Trabajo práctico 6: Problema del Halting| [Ver carpeta](./T6/) |
 | **T7** | Trabajo práctico 7: Máquinas Secuenciales| [Ver carpeta](./T7/) |
-
-
-
+| **T8** | Trabajo práctico 8: Complejidad| [Ver carpeta](./T8/) |
 
 ---
 
